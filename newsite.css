@@ -1,0 +1,108 @@
+*{
+	background-color: #F7FCFE;	
+	box-sizing:border-box;
+	width:100%;
+}
+.name{
+	text-align:center;
+	border-radius:10px;
+	letter-spacing: 10px;
+    background-color: aquamarine;
+    font-size: 50px;
+    color: black;
+}
+@media(max-width:1000){
+	.name{
+		font-size:30px;
+	}
+}
+.mokuj p{
+	letter-spacing: 10px;
+    font-size: 30px;
+    color: black;
+}
+.mokuj li{
+	letter-spacing: 2px;
+    font-size: 25px;
+    color: black;
+    padding: 0px 50px;
+    list-style: none;
+}
+.mokuj li:hover{
+	background-color: red;
+}
+.syussin {
+	letter-spacing: 3px;
+    list-style: none;
+    font-size: 30px;
+    padding: 20px;
+}
+.syumi {
+	letter-spacing: 2px;
+    font-size: 25px;
+    color: black;
+    padding: 0px 50px;
+    list-style: none;
+}
+.syumi p2 {
+    font-size: 25px;
+    color: black;
+    padding: 10px 30px;
+    list-style: none;
+    content: "\A" ;
+	white-space: pre ;
+}
+.syumi p {
+	letter-spacing: 5px;
+    font-size: 20px;
+    color: black;
+    padding: 10px 30px;
+    list-style: none;
+}
+.syumi li {
+	letter-spacing: 5px;
+    font-size: 15px;
+    color: black;
+    padding: 15px 50px;
+    list-style: none;
+}
+.yaritai {
+    font-size: 25px;
+    color: black;
+    padding: 0px 50px;
+    list-style: none;
+}
+.yaritai li{
+    font-size: 15px;
+    color: black;
+    padding: 20px 50px;
+    list-style: none;
+}
+.arubaito {
+	letter-spacing: 5px;
+    font-size: 25px;
+    color: black;
+    padding: 0px 50px;
+    list-style: none;
+}
+.arubaito h4{
+	
+    font-size: 15px;
+    color: black;
+    padding: 20px 50px;
+    list-style: none;
+}
+.arubaito p1{
+	letter-spacing: 5px;
+    font-size: 10px;
+    color: black;
+    padding: 20px 50px;
+    list-style: none;
+}
+.youtube{
+	font-size: 15px;
+	text-align:center;
+}
+.fa-youtube{
+	color:red;
+}
